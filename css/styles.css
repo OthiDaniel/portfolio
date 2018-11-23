@@ -41,3 +41,6 @@ header li a {
   .para{
     font-style: italic;
   }
+  .paragraph{
+    float: right;
+  }
