@@ -19,4 +19,8 @@ header {
     left: 0;
     right: 0;
     height: 80px;
+    display: flex;
+}
+header * {
+    display: inline;
 }
