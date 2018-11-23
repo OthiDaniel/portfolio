@@ -38,3 +38,6 @@ header li a {
     background: rgba(221, 109, 35, 0.26);
     color: rgba(0, 255, 122, 0.3);
   }
+  .para{
+    font-style: italic;
+  }
